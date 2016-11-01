@@ -18,16 +18,16 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "zichenwang2015@u.northwestern.edu" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "zichenwang" # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: "http://www.linkedin.com/in/zichen-wang" # Full URL
   pinterest:
   reddit:
   soundcloud:
